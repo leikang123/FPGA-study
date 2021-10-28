@@ -1,0 +1,19 @@
+initial begin
+    clk =0;
+    ar=0;
+    ai=0;
+    br =0;
+    bi=1;
+    #100;
+    ar =20;
+    ai =20;
+    
+end
+initial fork
+    // yuju1
+    // yuju2
+    //同事一时间同时运行
+    
+end
+/*intial模块是运行一次，从开始到结束*/
+// 如果有两个intial则运行两次就挂起
