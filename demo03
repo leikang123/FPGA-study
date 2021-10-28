@@ -1,0 +1,9 @@
+always begin
+    
+end
+
+
+always fork
+join
+end
+// always是重复执行的结果
