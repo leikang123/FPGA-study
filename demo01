@@ -1,0 +1,21 @@
+/*
+verilog的语法格式学习
+*/
+module leikang(unl,un2,un3);
+input unl,unl3;
+output un2;
+write;
+// 实力化门级元件
+asssign;
+initial begin               always @() 
+                                       begin
+                                           c =A /B 
+    
+
+                            end
+    c =A /B 
+end
+// 行为描述语句
+endmodule
+wire [sig1,sig3];
+time 
