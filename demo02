@@ -1,3 +1,5 @@
+/**
+FPGA的一些基础语法verilog语言*/
 initial begin
     clk =0;
     ar=0;
